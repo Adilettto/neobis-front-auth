@@ -1,0 +1,19 @@
+.main-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vh;
+}
+
+.man-sitting {
+    width: 80%;
+}
+
+h1 {
+    font-size: 5vh;
+}
+
+.main-image p {
+    font-size: 1.3rem;
+}
+
