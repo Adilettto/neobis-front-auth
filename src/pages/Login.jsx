@@ -1,6 +1,7 @@
 import React from "react";
 import MainImage from "../components/MainImage";
 import "./Login.css";
+import { Link } from "react-router-dom";
 
 const Login = () => {
   return (
@@ -11,7 +12,7 @@ const Login = () => {
         <input type="text" placeholder="Enter login" />
         <input type="password" placeholder="Enter password"/>
         <button className="login-btn">Login</button>
-        <a className="no-account" href="/">I don't have an account</a>
+        <Link className="no-account" to="/sign-up">I don't have an account</Link>
       </div>
     </div>
   );

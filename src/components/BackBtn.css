@@ -1,0 +1,19 @@
+.back-btn {
+    position: absolute;
+    top: 2rem;
+    display: flex;
+    margin: 0 auto;
+    text-decoration: none;
+  }
+  
+  .back-link {
+    padding-top: 0.2rem;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .back-icon {
+      background-color: rgb(206, 197, 197);
+      border-radius: 1rem;
+      margin-right: 0.5rem;
+  }

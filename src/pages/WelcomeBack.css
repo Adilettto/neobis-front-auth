@@ -1,0 +1,16 @@
+.welcome-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.welcome-page img {
+    width: 30%;
+}
+
+.logout-link {
+    text-decoration: none;
+    color: #000;
+}

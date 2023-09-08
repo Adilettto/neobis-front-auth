@@ -1,0 +1,15 @@
+.sign-up {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 7%;
+}
+
+.criterias {
+  color: rgb(99, 91, 91);
+  font-size: 0.9rem;
+}
+
+.login-input-block h3 {
+  margin-bottom: 1rem;
+}
